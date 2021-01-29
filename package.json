@@ -1,5 +1,5 @@
 {
-  "name": "jorgen",
+  "name": "boilerplate-express",
   "version": "1.0.0",
   "dependencies": {
     "compression": "^1.7.1",
